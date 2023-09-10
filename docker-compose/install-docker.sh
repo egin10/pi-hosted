@@ -1,10 +1,10 @@
 #!/bin/sh
 
 # Update
-sudo apt update
+# sudo apt update
 
 # Upgrade
-sudo apt upgrade -y
+# sudo apt upgrade -y
 
 # Install required dependencies
 sudo apt install lsb-release ca-certificates apt-transport-https software-properties-common -y
